@@ -1,0 +1,11 @@
+C:\Users\bohsh\Desktop\visual\Builder\LITEWEUGHT\LITEWEUGHT\bin\Debug\LITEWEUGHT.exe.config
+C:\Users\bohsh\Desktop\visual\Builder\LITEWEUGHT\LITEWEUGHT\bin\Debug\LITEWEUGHT.exe
+C:\Users\bohsh\Desktop\visual\Builder\LITEWEUGHT\LITEWEUGHT\bin\Debug\LITEWEUGHT.pdb
+C:\Users\bohsh\Desktop\visual\Builder\LITEWEUGHT\LITEWEUGHT\obj\Debug\LITEWEUGHT.csproj.AssemblyReference.cache
+C:\Users\bohsh\Desktop\visual\Builder\LITEWEUGHT\LITEWEUGHT\obj\Debug\LITEWEUGHT.csproj.SuggestedBindingRedirects.cache
+C:\Users\bohsh\Desktop\visual\Builder\LITEWEUGHT\LITEWEUGHT\obj\Debug\LITEWEUGHT.Properties.Resources.resources
+C:\Users\bohsh\Desktop\visual\Builder\LITEWEUGHT\LITEWEUGHT\obj\Debug\LITEWEUGHT.csproj.GenerateResource.cache
+C:\Users\bohsh\Desktop\visual\Builder\LITEWEUGHT\LITEWEUGHT\obj\Debug\LITEWEUGHT.csproj.CoreCompileInputs.cache
+C:\Users\bohsh\Desktop\visual\Builder\LITEWEUGHT\LITEWEUGHT\obj\Debug\LITEWEUGHT.exe
+C:\Users\bohsh\Desktop\visual\Builder\LITEWEUGHT\LITEWEUGHT\obj\Debug\LITEWEUGHT.pdb
+C:\Users\bohsh\Desktop\visual\Builder\LITEWEUGHT\LITEWEUGHT\obj\Debug\FlyWeight.Form1.resources
